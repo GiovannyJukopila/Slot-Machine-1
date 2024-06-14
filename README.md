@@ -1,8 +1,8 @@
 # Slot Machine Application
 
-![Slot Machine Screenshot](./public/assets/slotMachine.png)
-
 This repository contains a React component `SlotMachine` that implements a simple slot machine game using PixiJS, a powerful rendering engine for 2D web graphics. This README provides an overview of the project structure, setup instructions, and key features.
+
+<img src="./public/assets/slotMachine.png" alt="Slot Machine Screenshot" width="400"/>
 
 ## Tools and Technologies Used
 
